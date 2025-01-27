@@ -1,1 +1,2 @@
+Kolejna linia w pliku 2
 "To jest drugi plik" 
